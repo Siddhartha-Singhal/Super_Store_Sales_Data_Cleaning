@@ -1,5 +1,5 @@
 # Super_Store_Sales_Data_Cleaning
-Software used for task is **Power BI**
+Software used for task is **Power Query Editor**
 <br>
 ### Actions performed
 - Checked for null values in the dataset
